@@ -8,3 +8,6 @@ networkx==3.2.1
 holoviews==1.18.3
 pyvis==0.3.2
 seaborn==0.13.2
+param==2.1.0
+bokeh==3.4.0
+panel==1.4.0

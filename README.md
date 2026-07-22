@@ -2,4 +2,4 @@ Effects of cold-water immersion on cytokine and metabolic alterations post rest.
 
 Click the badge below to launch the notebooks interactively:
 
-[![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/ernestonifade/rest-study/main)
+[![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/ernestonifade/rest-study.git/main?urlpath=%2Fdoc%2Ftree%2F%2Fvoila)
